@@ -13,3 +13,5 @@ clear entries: localhost:8080/clear
   
 persist entries to storage file / database: localhost:8080/persist  
 load entries from storage file / database: localhost:8080/load  
+
+[I also dockerized this project.](https://github.com/steffenjacobs/docker-example)
